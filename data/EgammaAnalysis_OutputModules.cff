@@ -1,0 +1,11 @@
+##################################################
+#
+#  Collection of all outputModules for Egamma
+#
+##################################################
+
+#Egamma skims
+include "EgammaAnalysis/CSA07Skims/data/EgammaElectronOutputModule.cfi"
+include "EgammaAnalysis/CSA07Skims/data/EgammaVeryHighEMOutputModule.cfi"
+include "EgammaAnalysis/CSA07Skims/data/EgammaZPlusEMOrJetOutputModule.cfi"
+include "EgammaAnalysis/CSA07Skims/data/EgammaWPlusEMOrJetOutputModule.cfi"
