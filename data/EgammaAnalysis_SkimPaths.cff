@@ -5,7 +5,7 @@
 ##################################################
 
 #Egamma skims
-include "EgammaAnalysis/CSA07Skims/data/EgammaElectronPath.cfi"
-include "EgammaAnalysis/CSA07Skims/data/EgammaVeryHighEMPath.cfi"
-include "EgammaAnalysis/CSA07Skims/data/EgammaZPlusEMOrJetPath.cfi"
-include "EgammaAnalysis/CSA07Skims/data/EgammaWPlusEMOrJetPath.cfi"
+include "EgammaAnalysis/CSA07Skims/data/EgammaLooseZPath.cff"
+include "EgammaAnalysis/CSA07Skims/data/EgammaVeryHighEMPath.cff"
+include "EgammaAnalysis/CSA07Skims/data/EgammaZPlusEMOrJetPath.cff"
+include "EgammaAnalysis/CSA07Skims/data/EgammaWPlusEMOrJetPath.cff"
